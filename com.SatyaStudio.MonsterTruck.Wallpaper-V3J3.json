@@ -34,23 +34,23 @@
 "PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "INTER_COUNT" : 20,
 
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-4765095539204939/4935110839",
+"ADMOB_BANNER" : "ca-app-pub-4765095539204939/3633976760",
 "ADMOB_OPENADS" : "",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "12345",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4413757",
 
 "STARTAPPID" : "201904707",
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
-"TAPDAQ_APP_ID" : "",
-"TAPDAQ_CLIENT_KEY" : "",
+"TAPDAQ_APP_ID" : "616ee7cc86c31c4e07c1106c",
+"TAPDAQ_CLIENT_KEY" : "c87e612c-3527-4c3d-a1ad-326c62686410",
 
 //  Exit Dialog
 //  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
@@ -60,7 +60,7 @@
 "RATE_BUTTON" : "Rate App",
 "LATER_BUTTON" : "Home",
 "ENABLE_SHARE_BUTTON" : false,
-"SHARE_TXT" : "Superb App Download Now",
+"SHARE_TXT" : "Superb App Install Now",
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.zerocorp.boyboyboi.wallpaper"
 
